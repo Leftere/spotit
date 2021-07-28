@@ -1,0 +1,197 @@
+.spot-it-card {
+  margin: 10px;
+  position: relative;
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+}
+
+.spot-it-image {
+  background: url(../resources/spotIt.jpg);
+  background-size: 270px 270px;
+  width: 35px;
+  height: 35px;
+  border-radius: 100%;
+}
+
+.spot-it-image.item-1 {
+  background-position: 0px 0px;
+}
+.spot-it-image.item-2 {
+  background-position: -40px 0;
+}
+.spot-it-image.item-3 {
+  background-position: -77px 0;
+}
+.spot-it-image.item-4 {
+  background-position: -112px 0;
+}
+.spot-it-image.item-5 {
+  background-position: -148px 0px;
+}
+.spot-it-image.item-6 {
+  background-position: -185px 0px;
+}
+.spot-it-image.item-7 {
+  background-position: -222px 0px;
+}
+.spot-it-image.item-8 {
+  background-position: 0px -33px;
+}
+.spot-it-image.item-9 {
+  background-position: -30px -33px;
+}
+.spot-it-image.item-10 {
+  background-position: -70px -33px;
+}
+.spot-it-image.item-11 {
+  background-position: -105px -33px;
+}
+.spot-it-image.item-12 {
+  background-position: -142px -33px;
+}
+.spot-it-image.item-13 {
+  background-position: -190px -30px;
+}
+.spot-it-image.item-14 {
+  background-position: -240px -30px;
+}
+.spot-it-image.item-15 {
+  background-position: -6px -65px;
+}
+.spot-it-image.item-16 {
+  background-position: -48px -65px;
+}
+.spot-it-image.item-17 {
+  background-position: -80px -65px;
+}
+.spot-it-image.item-18 {
+  background-position: -110px -65px;
+}
+.spot-it-image.item-19 {
+  background-position: -150px -65px;
+}
+.spot-it-image.item-20 {
+  background-position: -180px -65px;
+}
+.spot-it-image.item-21 {
+  background-position: -197px -65px;
+}
+.spot-it-image.item-22 {
+  background-position: -222px -65px;
+}
+.spot-it-image.item-23 {
+  background-position: 0px -100px;
+}
+.spot-it-image.item-24 {
+  background-position: -25px -100px;
+}
+.spot-it-image.item-25 {
+  background-position: -55px -100px;
+}
+.spot-it-image.item-26 {
+  background-position: -82px -100px;
+}
+.spot-it-image.item-27 {
+  background-position: -130px -100px;
+}
+.spot-it-image.item-28 {
+  background-position: -164px -100px;
+}
+.spot-it-image.item-29 {
+  background-position: -187px -100px;
+}
+.spot-it-image.item-30 {
+  background-position: -220px -100px;
+}
+.spot-it-image.item-31 {
+  background-position: 0px -135px;
+}
+.spot-it-image.item-32 {
+  background-position: -35px -135px;
+}
+.spot-it-image.item-33 {
+  background-position: -72px -135px;
+}
+.spot-it-image.item-34 {
+  background-position: -102px -130px;
+}
+.spot-it-image.item-35 {
+  background-position: -130px -135px;
+}
+.spot-it-image.item-36 {
+  background-position: -167px -132px;
+}
+.spot-it-image.item-37 {
+  background-position: -205px -132px;
+}
+.spot-it-image.item-38 {
+  background-position: 0px -160px;
+}
+.spot-it-image.item-39 {
+  background-position: -14px -160px;
+}
+.spot-it-image.item-40 {
+  background-position: -50px -160px;
+}
+.spot-it-image.item-41 {
+  background-position: -82px -160px;
+}
+.spot-it-image.item-42 {
+  background-position: -114px -160px;
+}
+.spot-it-image.item-43 {
+  background-position: -154px -160px;
+}
+.spot-it-image.item-44 {
+  background-position: -194px -160px;
+}
+.spot-it-image.item-45 {
+  background-position: -224px -160px;
+}
+.spot-it-image.item-46 {
+  background-position: 0px -196px;
+}
+.spot-it-image.item-47 {
+  background-position: -30px -196px;
+}
+.spot-it-image.item-48 {
+  background-position: -60px -196px;
+}
+.spot-it-image.item-49 {
+  background-position: -88px -196px;
+}
+.spot-it-image.item-50 {
+  background-position: -125px -196px;
+}
+.spot-it-image.item-51 {
+  background-position: -160px -196px;
+}
+.spot-it-image.item-52 {
+  background-position: -194px -196px;
+}
+.spot-it-image.item-53 {
+  background-position: -226px -196px;
+}
+.spot-it-image.item-54 {
+  background-position: 0px -230px;
+}
+.spot-it-image.item-55 {
+  background-position: -40px -230px;
+}
+.spot-it-image.item-56 {
+  background-position: -74px -230px;
+}
+.spot-it-image.item-57 {
+  background-position: -115px -230px;
+}
+
+.user-card .spot-it-image-container {
+  cursor: pointer;
+}
+
+.user-card .spot-it-image-container:hover {
+  border-radius: 100%;
+  box-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.2),
+    0px 4px 5px 0px rgba(0, 0, 0, 0.14), 0px 1px 10px 0px rgba(0, 0, 0, 0.12);
+}
